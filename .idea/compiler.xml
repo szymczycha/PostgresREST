@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="PostgresREST" target="19" />
+      <module name="PostgresREST" target="18" />
     </bytecodeTargetLevel>
   </component>
 </project>

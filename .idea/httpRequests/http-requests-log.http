@@ -1,0 +1,412 @@
+GET http://localhost:7777/api/book
+Accept: application/json
+
+<> 2023-02-26T155741.200.html
+
+###
+
+GET http://localhost:7777/api/book/4
+Accept: application/json
+
+<> 2023-02-26T155738.200.html
+
+###
+
+PUT http://localhost:7777/api/update
+Accept: application/json
+
+{
+    "author": "Hans Christian Andersen",
+    "country": "Denmark",
+    "language": "Danish",
+    "link": "https://en.wikipedia.org/wiki/Fairy_Tales_Told_for_Children._First_Collection",
+    "pages": 784,
+    "title": "Fairy talesssa",
+    "year": 1832,
+    "id": 4
+}
+
+<> 2023-02-26T155730.200.html
+
+###
+
+PUT http://localhost:7777/api/update
+Accept: application/json
+
+{
+    "author": "Hans Christian Andersen",
+    "country": "Denmark",
+    "language": "Danish",
+    "link": "https://en.wikipedia.org/wiki/Fairy_Tales_Told_for_Children._First_Collection",
+    "pages": 784,
+    "title": "Fairy tales",
+    "year": 1832,
+    "id": 4
+}
+
+<> 2023-02-26T155717.200.html
+
+###
+
+PUT http://localhost:7777/api/update
+Accept: application/json
+
+{
+    "author": "Hans Christian Andersen",
+    "country": "Denmark",
+    "language": "Danish",
+    "link": "https://en.wikipedia.org/wiki/Fairy_Tales_Told_for_Children._First_Collection",
+    "pages": 784,
+    "title": "Fairy tales",
+    "year": 1832,
+    "id": 4
+}
+
+<> 2023-02-26T155625.200.html
+
+###
+
+PUT http://localhost:7777/api/update
+Accept: application/json
+
+{
+    "author": "Hans Christian Andersen",
+    "country": "Denmark",
+    "language": "Danish",
+    "link": "https://en.wikipedia.org/wiki/Fairy_Tales_Told_for_Children._First_Collection",
+    "pages": 784,
+    "title": "Fairy tales",
+    "year": 1832
+    "id": 4
+}
+
+<> 2023-02-26T155459.200.html
+
+###
+
+PUT http://localhost:7777/api/update
+Accept: application/json
+
+{
+    "author": "Hans Christian Andersen",
+    "country": "Denmark",
+    "language": "Danish",
+    "link": "https://en.wikipedia.org/wiki/Fairy_Tales_Told_for_Children._First_Collection",
+    "pages": 784,
+    "title": "Fairy tales",
+    "year": 1832
+    "id": 1
+}
+
+<> 2023-02-26T155454.200.html
+
+###
+
+PUT http://localhost:7777/api/update
+Accept: application/json
+
+{
+    "author": "Hans Christian Andersen",
+    "country": "Denmark",
+    "language": "Danish",
+    "link": "https://en.wikipedia.org/wiki/Fairy_Tales_Told_for_Children._First_Collection",
+    "pages": 784,
+    "title": "Fairy tales",
+    "year": 1832
+    "id": 1
+}
+
+<> 2023-02-26T155401.500.html
+
+###
+
+PUT http://localhost:7777/api/update
+Accept: application/json
+
+{
+    "author": "Hans Christian Andersen",
+    "country": "Denmark",
+    "language": "Danish",
+    "link": "https://en.wikipedia.org/wiki/Fairy_Tales_Told_for_Children._First_Collection",
+    "pages": 784,
+    "title": "Fairy tales",
+    "year": 1832
+    "id": 1
+}
+
+<> 2023-02-26T154612.500.html
+
+###
+
+PUT http://localhost:7777/api/update
+Accept: application/json
+
+{
+    "author": "Hans Christian Andersen",
+    "country": "Denmark",
+    "language": "Danish",
+    "link": "https://en.wikipedia.org/wiki/Fairy_Tales_Told_for_Children._First_Collection",
+    "pages": 784,
+    "title": "Fairy tales",
+    "year": 1832
+    "id": 1
+}
+
+<> 2023-02-26T154536.500.html
+
+###
+
+PUT http://localhost:7777/api/update
+Accept: application/json
+
+{
+    "author": "Hans Christian Andersen",
+    "country": "Denmark",
+    "language": "Danish",
+    "link": "https://en.wikipedia.org/wiki/Fairy_Tales_Told_for_Children._First_Collection",
+    "pages": 784,
+    "title": "Fairy tales",
+    "year": 1832
+    "id": 1
+}
+
+<> 2023-02-26T154444.500.html
+
+###
+
+GET http://localhost:7777/api/book
+Accept: application/json
+
+<> 2023-02-26T154436.200.html
+
+###
+
+GET http://localhost:7777/api/book/tale
+Accept: application/json
+
+<> 2023-02-26T153633.200.html
+
+###
+
+GET http://localhost:7777/api/book/1836
+Accept: application/json
+
+<> 2023-02-26T153629.200.html
+
+###
+
+POST http://localhost:7777/api/book
+Accept: application/json
+
+{
+    "author": "Hans Christian Andersen",
+    "country": "Denmark",
+    "language": "Danish",
+    "link": "https://en.wikipedia.org/wiki/Fairy_Tales_Told_for_Children._First_Collection",
+    "pages": 784,
+    "title": "Fairy tales",
+    "year": 1832
+}
+
+<> 2023-02-26T153627.200.html
+
+###
+
+GET http://localhost:7777/api/book/1836
+Accept: application/json
+
+<> 2023-02-26T153617.200.html
+
+###
+
+GET http://localhost:7777/api/book
+Accept: application/json
+
+<> 2023-02-26T152654.200.html
+
+###
+
+GET http://localhost:7777/api/book/1836
+Accept: application/json
+
+<> 2023-02-26T152645.200.html
+
+###
+
+GET http://localhost:7777/api/book/tale
+Accept: application/json
+
+<> 2023-02-26T152056.200.html
+
+###
+
+POST http://localhost:7777/api/book
+Accept: application/json
+
+{
+    "author": "Hans Christian Andersen",
+    "country": "Denmark",
+    "language": "Danish",
+    "link": "https://en.wikipedia.org/wiki/Fairy_Tales_Told_for_Children._First_Collection",
+    "pages": 784,
+    "title": "Fairy tales",
+    "year": 1836
+}
+
+<> 2023-02-26T152054.200.html
+
+###
+
+GET http://localhost:7777/api/book/tale
+Accept: application/json
+
+<> 2023-02-26T152044.200.html
+
+###
+
+GET http://localhost:7777/api/book/tale
+Accept: application/json
+
+<> 2023-02-26T152013.200.html
+
+###
+
+POST http://localhost:7777/api/book
+Accept: application/json
+
+{
+    "author": "Hans Christian Andersen",
+    "country": "Denmark",
+    "language": "Danish",
+    "link": "https://en.wikipedia.org/wiki/Fairy_Tales_Told_for_Children._First_Collection",
+    "pages": 784,
+    "title": "Fairy tales",
+    "year": 1836
+}
+
+<> 2023-02-26T152012.200.html
+
+###
+
+GET http://localhost:7777/api/book/tale
+Accept: application/json
+
+<> 2023-02-26T152008.200.html
+
+###
+
+GET http://localhost:7777/api/book/tale
+Accept: application/json
+
+<> 2023-02-26T151936.200.html
+
+###
+
+DELETE http://localhost:7777/api/book/1
+Accept: application/json
+
+<> 2023-02-26T151608.200.html
+
+###
+
+GET http://localhost:7777/api/book
+Accept: application/json
+
+<> 2023-02-26T151606.200.html
+
+###
+
+DELETE http://localhost:7777/api/book/1
+Accept: application/json
+
+<> 2023-02-26T151557.200.html
+
+###
+
+DELETE http://localhost:7777/api/book/1
+Accept: application/json
+
+<> 2023-02-26T151527.500.html
+
+###
+
+DELETE http://localhost:7777/api/book/1
+Accept: application/json
+
+<> 2023-02-26T151447.500.html
+
+###
+
+DELETE http://localhost:7777/api/book/1
+Accept: application/json
+
+<> 2023-02-26T151431.500.html
+
+###
+
+DELETE http://localhost:7777/api/book/1
+Accept: application/json
+
+<> 2023-02-26T151243.500.html
+
+###
+
+DELETE http://localhost:7777/api/book/1
+Accept: application/json
+
+<> 2023-02-26T151155.500.html
+
+###
+
+DELETE http://localhost:7777/api/book/1
+Accept: application/json
+
+<> 2023-02-26T151124.500.html
+
+###
+
+GET http://localhost:7777/api/book
+Accept: application/json
+
+<> 2023-02-26T151116.200.html
+
+###
+
+GET http://localhost:7777/api/book
+Accept: application/json
+
+<> 2023-02-26T151023.200.html
+
+###
+
+GET http://localhost:7777/api/book
+Accept: application/json
+
+<> 2023-02-26T144136.200.html
+
+###
+
+POST http://localhost:7777/api/book
+Accept: application/json
+
+{
+    "author": "Hans Christian Andersen",
+    "country": "Denmark",
+    "language": "Danish",
+    "link": "https://en.wikipedia.org/wiki/Fairy_Tales_Told_for_Children._First_Collection",
+    "pages": 784,
+    "title": "Fairy tales",
+    "year": 1836
+}
+
+<> 2023-02-26T144133.200.html
+
+###
+
+GET http://localhost:7777/api/book
+Accept: application/json
+
+<> 2023-02-26T143113.200.html
+
+###
+
